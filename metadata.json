@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: s8-10",
+  "description": "evil art ai that plans to take the earth for its self",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
